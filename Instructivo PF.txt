@@ -1,0 +1,9 @@
+Pasos a seguir para la creación de la Base de Datos "municipio_proyecto_final":
+
+1- Creación del esquema, tablas y triggers a través del script llamado "Federico Ibañez Script DDL y TRIGGERS PF".
+2- Inserción de datos a través del script llamado "Federico Ibañez Script DML PF".
+3- Creación de VIEWS a través del script llamado "Federico Ibañez Script VIEWS PF".
+4- Creación de FUNCTIONS a través del script llamado "Federico Ibañez Script FUNCTIONS PF".
+5- Creación de STORE PROCEDURES a través del script llamado "Federico Ibañez Script STORE PROCEDURES PF".
+6- Creación de los usuarios a través del script llamado Federico Ibañez Script DCL PF".
+7- Creación de control de transacciones a través del script llamado "Federico Ibañez Script TCL PF".
